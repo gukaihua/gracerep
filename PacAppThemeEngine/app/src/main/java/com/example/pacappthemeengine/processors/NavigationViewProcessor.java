@@ -14,7 +14,7 @@ import com.example.pacappthemeengine.Config;
 import com.example.pacappthemeengine.util.Util;
 
 /**
- * @author Aidan Follestad (afollestad)
+ *
  */
 public class NavigationViewProcessor implements Processor<NavigationView, Void> {
 

@@ -6,7 +6,7 @@ import android.support.annotation.Nullable;
 import android.view.View;
 
 /**
- * @author Aidan Follestad (afollestad)
+ *
  */
 public interface Processor<T extends View, E> {
 

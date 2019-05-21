@@ -1,7 +1,7 @@
 package com.example.pacappthemeengine;
 
 /**
- * @author Aidan Follestad (afollestad)
+ *
  */
 abstract class ConfigBase implements ConfigInterface {
 

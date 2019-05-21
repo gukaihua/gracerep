@@ -15,7 +15,7 @@ import android.widget.ScrollView;
 import java.lang.reflect.Field;
 
 /**
- * @author Aidan Follestad (afollestad)
+ *
  */
 public class EdgeGlowUtil {
 

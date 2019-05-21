@@ -13,7 +13,7 @@ import com.example.pacappthemeengine.util.Util;
 import java.lang.reflect.Field;
 
 /**
- * @author Aidan Follestad (afollestad)
+ *
  */
 public class SearchViewProcessor implements Processor<View, Integer> {
 

@@ -37,7 +37,7 @@ import com.example.pacappthemeengine.views.PreMadeView;
 import java.lang.reflect.Field;
 
 /**
- * @author Aidan Follestad (afollestad)
+ *
  */
 public final class ATE extends ATEBase {
 

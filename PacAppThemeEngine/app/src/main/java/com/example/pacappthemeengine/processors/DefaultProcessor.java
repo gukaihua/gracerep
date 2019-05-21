@@ -16,9 +16,6 @@ import com.example.pacappthemeengine.util.TintHelper;
 import com.example.pacappthemeengine.util.Util;
 
 
-/**
- * @author Aidan Follestad (afollestad)
- */
 public class DefaultProcessor implements Processor<View, Void> {
 
     private boolean isDark;

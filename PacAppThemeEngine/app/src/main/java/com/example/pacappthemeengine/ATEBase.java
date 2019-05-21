@@ -26,9 +26,7 @@ import com.example.pacappthemeengine.processors.ToolbarProcessor;
 
 import java.util.HashMap;
 
-/**
- * @author Aidan Follestad (afollestad)
- */
+
 class ATEBase {
 
     protected final static String DEFAULT_PROCESSOR = "[default]";

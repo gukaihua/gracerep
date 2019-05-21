@@ -16,7 +16,7 @@ import com.example.pacappthemeengine.util.Util;
 
 
 /**
- * @author Aidan Follestad (afollestad)
+ *
  */
 public class TabLayoutProcessor implements Processor<TabLayout, Void> {
 

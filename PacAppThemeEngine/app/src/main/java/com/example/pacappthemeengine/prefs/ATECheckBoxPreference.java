@@ -12,9 +12,7 @@ import com.example.pacappthemeengine.ATE;
 import com.example.pacappthemeengine.R;
 
 
-/**
- * @author Aidan Follestad (afollestad)
- */
+
 public class ATECheckBoxPreference extends CheckBoxPreference {
 
     public ATECheckBoxPreference(Context context) {

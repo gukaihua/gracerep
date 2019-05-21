@@ -26,7 +26,7 @@ import java.lang.reflect.Field;
 import java.util.ArrayList;
 
 /**
- * @author Aidan Follestad (afollestad)
+ *
  */
 public final class Util {
 

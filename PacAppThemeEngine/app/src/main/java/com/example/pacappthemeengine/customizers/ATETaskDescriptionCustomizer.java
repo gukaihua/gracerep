@@ -5,7 +5,7 @@ import android.support.annotation.ColorInt;
 import android.support.annotation.Nullable;
 
 /**
- * @author Aidan Follestad (afollestad)
+ *
  */
 public interface ATETaskDescriptionCustomizer {
 
